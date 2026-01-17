@@ -1,0 +1,11 @@
+número_pregunta,pregunta,salida_llm,nombre_variante,f1_score_calculado
+1,where did the vietnam war mainly take place,Vietnam,rag,1.0
+2,when was krakauer considered a success as a writer,Between 1984 and 2005,rag,0.0
+3,who played mrs garrett's son on facts of life,Kim Fields Claire Leachman,rag,0.0
+4,when is the men's ice hockey winter olympics 2018,"February 12–27, 2018",rag,0.25
+5,according to the bmw of north america v. gore case excessive punitive damages violate what,rights of BMW of North America v. Gore case copyright of the BMW of North America v. Gore case,rag,0.0
+6,who made the film society of the spectacle,Guy Debord,rag,1.0
+7,when did the queen became the queen of the uk,Queen Elizabeth II became the queen of the UK in July 2016.,rag,0.0
+8,how many times does a hummingbird heartbeat per minute,50-200 times per minute,rag,0.5
+9,when were each of the harry potter books released,Harry Potter and the Philosopher's Stone - 1997 Harry Potter and the Chamber of Secrets - Harry Potter and the Prisoner of Azkaban - Harry Potter and the Goblet of Fire - Harry Potter and the Order of the Phoenix - Harry Potter and the Half-Blood Prince - Harry Potter and the Deathly Hallows -,rag,0.04878048780487806
+10,when did the first papa john's open,"March 9, 1909",rag,0.0
